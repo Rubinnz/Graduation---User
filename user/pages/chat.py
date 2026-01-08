@@ -237,7 +237,7 @@ html, body, .stApp {
     linear-gradient(180deg, rgba(255,255,255,1), rgba(248,250,252,1)) !important;
 }
 
-.block-container { max-width: 1240px; padding-top: 1.05rem; padding-bottom: 2.1rem; }
+.block-container { max-width: 1240px; padding-top: 1.25rem; padding-bottom: 2.1rem; }
 
 section[data-testid="stSidebar"] {
   background: rgba(255,255,255,.62) !important;

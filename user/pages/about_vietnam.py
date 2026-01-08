@@ -86,7 +86,7 @@ html, body, [class*="css"]  {
     radial-gradient(700px 420px at 82% 92%, rgba(231, 29, 54, 0.12), rgba(0,0,0,0) 55%);
 }
 
-.block-container { padding-top: 1.25rem; padding-bottom: 2.25rem; max-width: 1180px; }
+.block-container { padding-top: 3rem; padding-bottom: 3rem; max-width: 1180px; }
 
 .a11-divider {
   height: 1px;
@@ -138,8 +138,10 @@ html, body, [class*="css"]  {
   font-weight: 800;
   font-size: 44px;
   letter-spacing: -0.8px;
-  line-height: 1.05;
+  line-height: 1.12;
+  padding-bottom: 2px;
 }
+
 .hero-subtitle{
   margin: 0;
   font-size: 16.5px;

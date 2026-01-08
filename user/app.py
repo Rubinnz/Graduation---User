@@ -61,7 +61,7 @@ html, body, .stApp {
     linear-gradient(180deg, rgba(255,255,255,1), rgba(248,250,252,1)) !important;
 }
 
-.block-container { max-width: 1240px; padding-top: 1.05rem; padding-bottom: 2.1rem; }
+.block-container { max-width: 1240px; padding-top: 3rem; padding-bottom: 2.1rem; }
 
 .a11-hr {
   height: 1px;
@@ -98,10 +98,12 @@ html, body, .stApp {
   font-size: 40px;
   font-weight: 900;
   letter-spacing: -0.9px;
-  line-height: 1.05;
+  line-height: 1.12;
   margin: 6px 0 8px 0;
   color: rgba(15,23,42,.95);
+  padding-bottom: 2px;
 }
+
 .hero-desc {
   font-size: 15.5px;
   color: rgba(71,85,105,.92);

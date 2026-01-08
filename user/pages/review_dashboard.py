@@ -142,7 +142,7 @@ html, body, [class*="css"]  {
     #ffffff;
 }
 
-.block-container { max-width: 1220px; padding-top: 1.1rem; padding-bottom: 2.2rem; }
+.block-container { max-width: 1220px; padding-top: 3rem; padding-bottom: 2.2rem; }
 
 .hr {
   height: 1px;
